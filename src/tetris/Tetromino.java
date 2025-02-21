@@ -20,7 +20,7 @@ public class Tetromino {
 		this.color = color;
 	}
 
-	public Point[] getPoint() {
+	public Point[] getShape() {
 		return shape;
 	}
 
